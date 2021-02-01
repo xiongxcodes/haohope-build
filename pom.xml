@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.xiongxcodes</groupId>
 	<artifactId>haohope-build</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>pom</packaging>
 	<name>Haohope Build</name>
 	<url>https://github.com/xiongxcodes/haohope-build</url>
