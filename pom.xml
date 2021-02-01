@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.xiongxcodes</groupId>
 	<artifactId>haohope-build</artifactId>
-	<version>1.1.0-SNAPSHOTS</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Haohope Build</name>
 	<url>https://github.com/xiongxcodes/haohope-build</url>
@@ -43,7 +43,6 @@
 			<url>http://www.apache.org/licenses/LICENSE-2.0</url>
 		</license>
 	</licenses>
-
 	<!--正式版本发布到Maven Central -->
 	<distributionManagement>
 		<snapshotRepository>
@@ -55,7 +54,6 @@
 			<url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
 		</repository>
 	</distributionManagement>
-
 	<repositories>
 		<!--配置拉取Maven仓库正式版依赖 -->
 		<repository>
